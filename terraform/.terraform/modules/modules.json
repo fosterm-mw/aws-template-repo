@@ -1,1 +1,0 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"network","Source":"./modules/terraform-aws-eks-network","Dir":"modules/terraform-aws-eks-network"}]}
